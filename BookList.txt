@@ -1,0 +1,25 @@
+The Great Gatsby;F. Scott Fitzgerald;false;n/a
+To Kill a Mockingbird;Harper Lee;true;Alice Johnson
+1984;George Orwell;true;Ranvir
+Pride and Prejudice;Jane Austen;true;Lucas Brown
+Moby Dick;Herman Melville;false;n/a
+The Catcher in the Rye;J.D. Salinger;true;Emma Wilson
+The Hobbit;J.R.R. Tolkien;false;n/a
+War and Peace;Leo Tolstoy;true;Daniel Green
+Jane Eyre;Charlotte Brontë;false;n/a
+The Odyssey;Homer;true;Sophia Davis
+Fahrenheit 451;Ray Bradbury;false;n/a
+Crime and Punishment;Fyodor Dostoevsky;true;Michael Scott
+The Lord of the Rings;J.R.R. Tolkien;true;Mr. Griswold
+The Alchemist;Paulo Coelho;true;Carla Torres
+Brave New World;Aldous Huxley;true;Sean Choi
+Wuthering Heights;Emily Brontë;true;Isabella Reed
+The Book Thief;Markus Zusak;false;n/a
+Les Misérables;Victor Hugo;true;Noah James
+A Tale of Two Cities;Charles Dickens;false;n/a
+Guide to computer science;David Griswold;true;Isabella Lee
+Shadows of realms;Ava thorn;false;N/A
+Garfield;John Davies;false;N/A
+The Giver;Louis Lowry;true;Parth
+Diary of a Wimpy Kid;Jeff Kinney;false;N/A
+Frankenstein;Marry Shelly;false;N/A
